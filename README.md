@@ -141,4 +141,7 @@ we can also post all the service end points using the post method using the http
 Hit http://localhost:8082/swagger-ui/index.html for employee controller.
 Hit http://localhost:8081/swagger-ui/index.html for department-controller.
 
-  
+# To change the JWT expiraation time
+
+create custom.properties file in outside of the folder and uncomment the config and custom property locator.
+
